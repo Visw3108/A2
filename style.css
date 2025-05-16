@@ -298,7 +298,7 @@ body {
 /* Phones */
 @media (max-width: 767px) {
   .hero-modern {
-    height: 70vh;
+    height: 60vh;
   }
   .hero-text h1 {
     font-size: 2rem;
