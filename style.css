@@ -297,6 +297,9 @@ body {
 
 /* Phones */
 @media (max-width: 767px) {
+  .hero-modern {
+    height: 70vh;
+  }
   .hero-text h1 {
     font-size: 2rem;
     margin-top: 4rem;
@@ -317,7 +320,11 @@ body {
 }
 
 /* Extra small screens */
+
 @media (max-width: 480px) {
+  .hero-modern {
+    height: 80vh;
+  }
   .hero-text h1 {
     font-size: 1.5rem;
     margin-top: 5rem;
