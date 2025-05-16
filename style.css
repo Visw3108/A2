@@ -163,7 +163,7 @@ body {
 /* HERO SECTION */
 .hero-modern {
   position: relative;
-  height: 100vh;
+  height: 90vh;
   background: url("/img/hero.jpg") center/cover no-repeat;
   display: flex;
   align-items: center;
