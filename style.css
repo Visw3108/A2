@@ -323,7 +323,7 @@ body {
 
 @media (max-width: 480px) {
   .hero-modern {
-    height: 70vh;
+    height: 80vh;
   }
   .hero-text h1 {
     font-size: 0.5rem;
